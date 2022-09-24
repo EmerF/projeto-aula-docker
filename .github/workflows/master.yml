@@ -17,3 +17,4 @@ jobs:
           heroku_email: "griloemer@gmail.com"
           usedocker: true
           docker_heroku_process_type: worker
+          branch: master
